@@ -1,0 +1,19 @@
+{
+  "name": "finra",
+  "version": "1.0.0",
+  "description": "Finra Spring Boot exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsonrobert/finra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsonrobert/finra/issues"
+  },
+  "homepage": "https://github.com/samsonrobert/finra#readme"
+}
